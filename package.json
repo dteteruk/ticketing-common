@@ -2,10 +2,10 @@
   "name": "@dt-learning/common",
   "version": "1.0.10",
   "description": "",
-  "main": "/build/index.js",
-  "types": "/build/index.d.ts",
+  "main": "index.js",
+  "types": "index.d.ts",
   "files": [
-    "/build/**/*"
+    "**/*"
   ],
   "scripts": {
     "clean": "del ./build/*",
